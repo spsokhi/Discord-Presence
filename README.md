@@ -51,6 +51,18 @@ It will set your Discord presence to:
 - **Elapsed Time:** Shows how long you’ve been “playing”  
 
 ---
+For Discord Rich Presence you upload the image to your Discord Application in the Developer Portal.
+- Go to your app in the Developer Portal.
+- In the left sidebar, open Rich Presence → Art Assets.
+- Upload your image there (e.g., a CS2 logo).
+- Give it a key name (for example: cs2).
+
+In the script, we reference it like this:
+```
+"large_image": "cs2",
+"large_text": "Counter-Strike 2",
+```
+---
 
 ## 🖼️ Example
 
