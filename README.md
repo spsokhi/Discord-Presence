@@ -79,6 +79,3 @@ Competitive – Mirage
 - Images must be uploaded in the **Art Assets** section of your application.
 
 ---
-
-## 📜 License
-MIT
